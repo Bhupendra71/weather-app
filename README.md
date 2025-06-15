@@ -17,7 +17,8 @@ A responsive and minimalistic weather application built using **HTML**, **CSS**,
 - HTML5, CSS3, JavaScript (ES6)
 - OpenWeatherMap API
 
-Contact
+## Contact
+
 For any inquiries, reach out at [bhupendra232903@gmail.com].
 
 contact no.: 8889165668
