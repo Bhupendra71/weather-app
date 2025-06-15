@@ -19,6 +19,5 @@ A responsive and minimalistic weather application built using **HTML**, **CSS**,
 
 Contact
 For any inquiries, reach out at [bhupendra232903@gmail.com].
-GitHub: Bhupendra71.
-Instagram: offx.bst.
+
 contact no.: 8889165668
